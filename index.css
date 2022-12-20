@@ -58,4 +58,21 @@ button {
 #save-btn {
     background: darkgreen;
 }
+@media screen and (orientation: portrait) {
+    .content{
+        font-size: 60px;
+    }
+    button{
+        margin: 50px auto;
+    }
+    p{
+        margin: 70px auto;
+    }
+    h1,h2{
+        margin: 70px auto;
+    }
+    #count-el{
+        font-size: 150px;
+    }
+}
 
