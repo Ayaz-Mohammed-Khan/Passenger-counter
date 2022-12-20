@@ -1,0 +1,61 @@
+body {
+    background-image: url("https://img.freepik.com/free-vector/realistic-travel-background-with-elements_52683-77784.jpg?w=900&t=st=1671555434~exp=1671556034~hmac=7459e4ad7aaad0c75cbc1c08b1e778465f2f4a224ab33718d4cb2d7f7a213b68");
+    background-size: cover;
+
+    background-repeat: no-repeat;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: #2D4165;
+    text-shadow: 0px 0px 10px white;
+    font-family: 'Happy Monkey', cursive;
+
+}
+#total-el{
+    background-color: #ffb703;
+}
+.container{
+    margin: auto;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+
+}
+p {
+    background-color: #e76f51;
+    margin: 5px auto;
+    padding: 5px 10px;
+    border-radius: 8px;
+}
+#reset-btn{
+    background-color: red;
+}
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding: 5px 10px;
+    color: white;
+    font-weight: bold;
+    margin: 10px auto;
+    border-radius: 5px;
+    font-family: 'Happy Monkey', cursive;
+}
+
+#increment-btn {
+    background: #003049;
+}
+
+#save-btn {
+    background: darkgreen;
+}
+
